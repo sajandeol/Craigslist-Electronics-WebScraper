@@ -1,0 +1,7 @@
+Inputs needed:
+-URL for craiglist site 
+-File Location to store txt file
+-USERS email, Users email password, email recipient
+
+
+Set up gmail to allow smtp to send emails from gmail account.
