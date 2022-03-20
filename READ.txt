@@ -5,3 +5,5 @@ Inputs needed:
 
 
 Set up gmail to allow smtp to send emails from gmail account.
+
+Install Selenium and beautifulSoup4
