@@ -9,7 +9,7 @@ options = Options()
 options.headless = True
 options.add_argument("--window-size=1920,1200")
 BASE_URL = 'URL NEEDED TO GO TO CRAIGLIST SITE NEAR YOU'
-fileLocation = "Location to store txtFile"
+fileLocation = "./"
 QUERY = 'electronic'
 driver = webdriver.Chrome(options=options)
 
